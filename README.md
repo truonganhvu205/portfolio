@@ -1,30 +1,30 @@
 # Libraries
 
-##Chakra UI
+## Chakra UI
 ```bash
 npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion
 ```
 
-##Formik and Yup
+## Formik and Yup
 
-###Formik
+### Formik
 ```bash
 npm install formik --save
 ```
 
-###Yup
+### Yup
 ```bash
 npm install yup --save
 ```
 
-##FontAwesomeIcon
+## FontAwesomeIcon
 
-###Add SVG Core
+### Add SVG Core
 ```bash
 npm i --save @fortawesome/fontawesome-svg-core
 ```
 
-###Add Icon Packages
+### Add Icon Packages
 ```bash
 # Free icons styles
 npm i --save @fortawesome/free-solid-svg-icons
@@ -32,7 +32,7 @@ npm i --save @fortawesome/free-regular-svg-icons
 npm i --save @fortawesome/free-brands-svg-icons
 ```
 
-###Add the React Component
+### Add the React Component
 ```bash
 npm i --save @fortawesome/react-fontawesome@latest
 ```
