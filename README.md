@@ -6,14 +6,12 @@ cd portfolio-advanced-react
 ```
 
 ## Libraries
-
 ### Chakra UI
 ```bash
 npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion
 ```
 
 ### Formik and Yup
-
 #### Formik
 ```bash
 npm install formik --save
@@ -25,7 +23,6 @@ npm install yup --save
 ```
 
 ### FontAwesomeIcon
-
 #### Add SVG Core
 ```bash
 npm i --save @fortawesome/fontawesome-svg-core
