@@ -51,13 +51,13 @@ npm start
   </tr>
   <tr align='center'>
     <td>
-      <img src='https://github.com/truonganhvu205/portfolio/blob/main/portfolio-react-chakra-ui-formik-yup-truong-anh-vu-10-26-2023/portfolio-react-chakra-ui-formik-yup-truong-anh-vu-10-26-2023-pic-1.png' />
+      <img src='https://github.com/truonganhvu205/portfolio/blob/main/portfolio-react-chakra-ui-formik-yup-truong-anh-vu-10-26-2023/portfolio-react-chakra-ui-formik-yup-truong-anh-vu-10-26-2023-pic-1.png' width='50%' />
     </td>
     <td>
-      <img src='https://github.com/truonganhvu205/portfolio/blob/main/portfolio-react-chakra-ui-formik-yup-truong-anh-vu-10-26-2023/portfolio-react-chakra-ui-formik-yup-truong-anh-vu-10-26-2023-pic-2.png' />
+      <img src='https://github.com/truonganhvu205/portfolio/blob/main/portfolio-react-chakra-ui-formik-yup-truong-anh-vu-10-26-2023/portfolio-react-chakra-ui-formik-yup-truong-anh-vu-10-26-2023-pic-2.png' width='50%' />
     </td>
     <td>
-      <img src='https://github.com/truonganhvu205/portfolio/blob/main/portfolio-react-chakra-ui-formik-yup-truong-anh-vu-10-26-2023/portfolio-react-chakra-ui-formik-yup-truong-anh-vu-10-26-2023-pic-3.png' />
+      <img src='https://github.com/truonganhvu205/portfolio/blob/main/portfolio-react-chakra-ui-formik-yup-truong-anh-vu-10-26-2023/portfolio-react-chakra-ui-formik-yup-truong-anh-vu-10-26-2023-pic-3.png' width='50%' />
     </td>
   </tr>
  </table>
