@@ -42,3 +42,23 @@ cd portfolio-advanced-react
 
 npm start
 ```
+
+<table align='center'>
+  <tr align='center'>
+    <td>Home</td>
+    <td>Featured Projects</td>
+    <td>Contact me</td>
+  </tr>
+  <tr align='center'>
+    <td>
+      <img src='https://github.com/truonganhvu205/portfolio/blob/main/portfolio-react-chakra-ui-formik-yup-truong-anh-vu-10-26-2023/portfolio-react-chakra-ui-formik-yup-truong-anh-vu-10-26-2023-pic-1.png' />
+    </td>
+    <td>
+      <img src='https://github.com/truonganhvu205/portfolio/blob/main/portfolio-react-chakra-ui-formik-yup-truong-anh-vu-10-26-2023/portfolio-react-chakra-ui-formik-yup-truong-anh-vu-10-26-2023-pic-2.png' />
+    </td>
+    <td>
+      <img src='https://github.com/truonganhvu205/portfolio/blob/main/portfolio-react-chakra-ui-formik-yup-truong-anh-vu-10-26-2023/portfolio-react-chakra-ui-formik-yup-truong-anh-vu-10-26-2023-pic-3.png' />
+    </td>
+  </tr>
+ </table>
+ 
