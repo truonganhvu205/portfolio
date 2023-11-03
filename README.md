@@ -1,3 +1,12 @@
+# Create React app
+```bash
+npx create-react-app portfolio-advanced-react
+```
+
+```bash
+cd portfolio-advanced-react
+```
+
 # Libraries
 ## Chakra UI
 ```bash
@@ -36,10 +45,6 @@ npm i --save @fortawesome/react-fontawesome@latest
 
 # Getting Started
 ```bash
-npx create-react-app portfolio-advanced-react
-
-cd portfolio-advanced-react
-
 npm start
 ```
 
