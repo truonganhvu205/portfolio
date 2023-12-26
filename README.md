@@ -1,10 +1,7 @@
-# Create React app
 ```bash
-npx create-react-app portfolio-advanced-react
-```
-
-```bash
-cd portfolio-advanced-react
+git init
+git clone https://github.com/truonganhvu205/portfolio.git
+cd portfolio
 ```
 
 # Libraries
