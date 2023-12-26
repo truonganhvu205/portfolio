@@ -2,6 +2,7 @@
 git init
 git clone https://github.com/truonganhvu205/portfolio.git
 cd portfolio
+npm install
 ```
 
 # Libraries
