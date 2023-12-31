@@ -30,4 +30,4 @@ const Card = ({ title, description, imageSrc }) => {
   )
 }
 
-export default Card 
+export default Card

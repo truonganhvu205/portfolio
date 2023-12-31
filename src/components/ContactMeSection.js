@@ -17,8 +17,8 @@ import FullScreenSection from './FullScreenSection'
 import useSubmit from '../hooks/useSubmit'
 import { useAlertContext } from '../context/alertContext'
 
-/** 
-* Covers a complete form implementation using formik and yup for validation 
+/**
+* Covers a complete form implementation using formik and yup for validation
 */
 const ContactMeSection = () => {
   const { isLoading, response, submit } = useSubmit()

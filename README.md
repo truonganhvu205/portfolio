@@ -1,8 +1,8 @@
 # Clone project
 ```bash
 git init
-git clone https://github.com/truonganhvu205/portfolio.git
-cd portfolio
+git clone https://github.com/truonganhvu205/portfolio-react.git
+cd portfolio-react
 npm install
 ```
 
@@ -12,33 +12,23 @@ npm install
 npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion
 ```
 
-## Formik and Yup
-### Formik
+## Formik & Yup
 ```bash
 npm install formik --save
-```
-
-### Yup
-```bash
 npm install yup --save
 ```
 
 ## FontAwesomeIcon
-### Add SVG Core
 ```bash
+# Add SVG Core
 npm i --save @fortawesome/fontawesome-svg-core
-```
 
-### Add Icon Packages
-```bash
-# Free icons styles
+# Add Icon Packages
 npm i --save @fortawesome/free-solid-svg-icons
 npm i --save @fortawesome/free-regular-svg-icons
 npm i --save @fortawesome/free-brands-svg-icons
-```
 
-### Add the React Component
-```bash
+# Add the React Component
 npm i --save @fortawesome/react-fontawesome@latest
 ```
 
@@ -47,6 +37,7 @@ npm i --save @fortawesome/react-fontawesome@latest
 npm start
 ```
 
+# Preview project
 <table align='center'>
   <tr align='center'>
     <td>Home</td>
@@ -55,14 +46,13 @@ npm start
   </tr>
   <tr align='center'>
     <td>
-      <img src='https://github.com/truonganhvu205/portfolio/blob/main/portfolio-react-chakra-ui-formik-yup-truong-anh-vu-10-26-2023/portfolio-react-chakra-ui-formik-yup-truong-anh-vu-10-26-2023-pic-1.png' />
+      <img src='https://github.com/truonganhvu205/portfolio-react/blob/main/portfolio-react/portfolio-react-pic-1.png' />
     </td>
     <td>
-      <img src='https://github.com/truonganhvu205/portfolio/blob/main/portfolio-react-chakra-ui-formik-yup-truong-anh-vu-10-26-2023/portfolio-react-chakra-ui-formik-yup-truong-anh-vu-10-26-2023-pic-2.png' />
+      <img src='https://github.com/truonganhvu205/portfolio-react/blob/main/portfolio-react/portfolio-react-pic-2.png' />
     </td>
     <td>
-      <img src='https://github.com/truonganhvu205/portfolio/blob/main/portfolio-react-chakra-ui-formik-yup-truong-anh-vu-10-26-2023/portfolio-react-chakra-ui-formik-yup-truong-anh-vu-10-26-2023-pic-3.png' />
+      <img src='https://github.com/truonganhvu205/portfolio-react/blob/main/portfolio-react/portfolio-react-pic-3.png' />
     </td>
   </tr>
  </table>
- 

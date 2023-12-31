@@ -1,8 +1,8 @@
 import * as React from 'react'
 import { VStack } from '@chakra-ui/react'
 
-/** 
-* Illustrates the use of children prop and spread operator 
+/**
+* Illustrates the use of children prop and spread operator
 */
 const FullScreenSection = ({ children, isDarkBackground, ...boxProps }) => {
   return (
